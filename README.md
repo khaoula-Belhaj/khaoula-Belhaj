@@ -35,7 +35,7 @@ Final-year engineering student in Communicating Systems and Computer Security, s
 
 | Project | Description |
 |---|---|
-| [**Vehicle-Rental-Management-Platform**](https://github.com/khaoula-Belhaj/Vehicle-Rental-Management-Platform) | Internship project: PHP/MySQL customer website and Flutter management app with a secured REST API |
+| [**Vehicle-Rental-Management-Platform**](https://github.com/khaoula-Belhaj/Vehicle-Rental-Management-Platform) | Internship project: PHP/MySQL customer website and Flutter management app with a secured REST API; blockchain-based traceability module in progress |
 | [**Taxi-management-app**](https://github.com/khaoula-Belhaj/Taxi-management-app) | Offline-first Flutter application for taxi fleet operations |
 | [**architectural-studio-website**](https://github.com/khaoula-Belhaj/architectural-studio-website) | Website for an architecture and interior design studio |
 | [**student-utility-app-android**](https://github.com/khaoula-Belhaj/student-utility-app-android) | Native Android application (Java, SQLite) with role-based dashboards |
