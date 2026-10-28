@@ -12,6 +12,8 @@
 
 | Project | What it shows |
 |---|---|
+| [**nexus-high-availability-network**](https://github.com/khaoula-Belhaj/nexus-high-availability-network) | 4-site banking network in GNS3: OSPF multi-area, VRRP/HSRP, VLAN, EtherChannel/LACP, ACL |
+| [**zabbix-infrastructure-monitoring**](https://github.com/khaoula-Belhaj/zabbix-infrastructure-monitoring) | SNRT internship: Zabbix 7.4 server, agents, proxy, SNMP, triggers and e-mail alerting |
 | [**Network-automation**](https://github.com/khaoula-Belhaj/Network-automation) | 6 Python scripts (Netmiko, Paramiko) automating Cisco routers in GNS3 + RESTCONF/YANG on a Cisco Catalyst 9000 |
 | [**network-services-labs**](https://github.com/khaoula-Belhaj/network-services-labs) | DHCP & relay, DNS, FTP/TFTP, Mail, SNMP traps, Wireshark ICMP/ARP analysis |
 
@@ -22,6 +24,12 @@
 | [**aws-cloud-infrastructure**](https://github.com/khaoula-Belhaj/aws-cloud-infrastructure) | From one EC2 server to an ALB + Auto Scaling + Multi-AZ RDS architecture |
 | [**pki-applied-cryptography-openssl**](https://github.com/khaoula-Belhaj/Cybersecurity-labs/tree/main/pki-applied-cryptography-openssl) | Private PKI (root CA, CSR, X.509), AES, RSA, SHA-2/HMAC, digital signatures |
 | [**linux-account-security**](https://github.com/khaoula-Belhaj/Cybersecurity-labs/tree/main/linux-account-security) | Password shadowing, salted hashes, users/groups, sudoers, chage, cron |
+
+## 📡 IoT
+
+| Project | What it shows |
+|---|---|
+| [**iot-esp32-mqtt-projects**](https://github.com/khaoula-Belhaj/iot-esp32-mqtt-projects) | ESP32 / MicroPython, MQTT (EMQX, HiveMQ), TLS analysis in Wireshark, QoS, Node-RED dashboards |
 
 ## 💻 Software Development
 
@@ -44,7 +52,8 @@
 - **Monitoring:** Zabbix, SNMP, Wireshark
 - **Fiber access:** FTTH, GPON/XGS-PON, optical power budget, OTDR
 - **Cloud & systems:** AWS, Proxmox VE, VMware, Linux, Windows
-- **Tools:** GNS3, Cisco Packet Tracer
+- **IoT:** ESP32, MicroPython, MQTT, Node-RED
+- **Tools:** GNS3, Cisco Packet Tracer, Docker
 
 ## 🏢 Experience
 
