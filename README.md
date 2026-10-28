@@ -14,6 +14,7 @@
 |---|---|
 | [**nexus-high-availability-network**](https://github.com/khaoula-Belhaj/nexus-high-availability-network) | 4-site banking network in GNS3: OSPF multi-area, VRRP/HSRP, VLAN, EtherChannel/LACP, ACL |
 | [**zabbix-infrastructure-monitoring**](https://github.com/khaoula-Belhaj/zabbix-infrastructure-monitoring) | SNRT internship: Zabbix 7.4 server, agents, proxy, SNMP, triggers and e-mail alerting |
+| [**proxmox-high-availability-cluster**](https://github.com/khaoula-Belhaj/proxmox-high-availability-cluster) | SNRT internship: 2-node Proxmox VE cluster on HP ProLiant servers, NFS shared NAS storage, HA failover and live migration |
 | [**Network-automation**](https://github.com/khaoula-Belhaj/Network-automation) | 6 Python scripts (Netmiko, Paramiko) automating Cisco routers in GNS3 + RESTCONF/YANG on a Cisco Catalyst 9000 |
 | [**network-services-labs**](https://github.com/khaoula-Belhaj/network-services-labs) | DHCP & relay, DNS, FTP/TFTP, Mail, SNMP traps, Wireshark ICMP/ARP analysis |
 
